@@ -59,7 +59,7 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 
 <details>
 <summary>
-  More stuff about me
+  More Info about me
 </summary>
 
 <br >
