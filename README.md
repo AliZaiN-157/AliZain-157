@@ -43,8 +43,6 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 
 
 
-
-
 <br />
 <br />
 
@@ -52,17 +50,6 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 - :paperclip: [My Resume/CV](https://github.com/AliZaiN-157/AliZain-157/blob/master/resumes/resume%20v1.0.pdf)
 - :email: vin.alizain@gmail.com
 
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis) -->
-
-<details>
-<summary>
-  More Info about me
-</summary>
-
-<br >
 
 
 #### Coding Stats
@@ -78,10 +65,5 @@ Python   28 mins         ██████████████████�
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliZaiN-157)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-</details>
 
 
-<!-- [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E  -->
