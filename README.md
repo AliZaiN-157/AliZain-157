@@ -11,7 +11,7 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 
 - 🔭 I’m currently working at ....
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
+- 🤔 I’m looking for help with Outstanding Projects.
 - 📫 How to reach me: vin.alizain@gmail.com.
 - 😄 Pronouns: Ds.Ali and Pull Stack Master.
 - ⚡ Fun fact: I play games and go to the Squash very often.
@@ -47,7 +47,7 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/AliZaiN-157/AliZain-157/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://rb.gy/ti2bbm)
 - :email: vin.alizain@gmail.com
 
 
