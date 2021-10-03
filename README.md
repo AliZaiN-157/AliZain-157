@@ -31,14 +31,17 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 [![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white)](#)
 [![Conda Badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
+[![Next Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+
 
 #### Coming Soon
-[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
 [![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](#)
 [![Gatsby Badge](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)](#)
-[![Next Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](#)
-[![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-)](#)
+[![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](#)
 
 
 
@@ -47,7 +50,7 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://rb.gy/ti2bbm)
+- :paperclip: [My Resume/CV](https://bit.ly/3Fc8EUU)
 - :email: vin.alizain@gmail.com
 
 
