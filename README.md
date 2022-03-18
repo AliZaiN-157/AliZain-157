@@ -46,7 +46,7 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://bit.ly/3Fc8EUU)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1VZTeaz_tnCgB5D7Y8z4EVFfFpYk_px52/view?usp=sharing)
 - :email: vin.alizain@gmail.com
 
 
