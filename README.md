@@ -56,7 +56,7 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 
 ```text
 HTML    2 hrs 1 min     ███████████████████░░░░░░   76.20 %
-CSS     37 mins         ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+CSS     37 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
