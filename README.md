@@ -55,11 +55,11 @@ I'm Ali Zain a Full Stack Web Developer and Artificial Intelligence Enthusiast. 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   33 hrs 33 mins  ██████████████████████░░░   88.54 %
-Prisma       3 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Python       34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript   39 hrs 38 mins  ██████████████████████▓░░   90.31 %
+Prisma       3 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Python       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
