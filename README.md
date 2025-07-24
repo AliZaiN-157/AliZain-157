@@ -1,5 +1,13 @@
-# 💫 About Me:
-Hey, I’m **Ali** — a final-year CS student who loves turning crazy AI ideas into real, working tools. Whether it’s detecting AI-written essays or building visa bots, I’m always experimenting.<br><br>- 🧠 Focus: LLMs, RAG, agentic AI, async APIs  <br>- 🏆 Winner @ M-DAIGT 2024 → Paper @ RANLP 2025  <br>- 🧪 Currently crafting voice agents that don’t suck<br><br>> _"Shipping > Hyping."_ — Me, probably
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=623CEA&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Ali+Zain!;AI+Researcher+%26+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
+<h1 align="center">Hey there 👋 I'm Ali Zain</h1>
+
+<p align="center">
+  <em>🧠 Focus: LLMs, GenAi, RAG, agentic AI </em><br>
+  <strong>Blending research brains with builder hands on a mission to make papers walk and models talk.</strong>
+</p>
+<br>- 🏆 Winner @ M-DAIGT 2024 → Paper @ RANLP 2025  <br>- 🧪 Currently crafting voice agents that don’t suck<br><br>> _"Shipping > Hyping."_ — Me, probably
 
 
 ## 🌐 Socials:
@@ -15,4 +23,17 @@ Hey, I’m **Ali** — a final-year CS student who loves turning crazy AI ideas 
 ---
 [![](https://visitcount.itsvg.in/api?id=alizain-157&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤝 Let’s Collaborate
+
+Got an idea that needs LLMs?  
+Need to turn research into something people can click?
+
+→ DM me on [LinkedIn](https://linkedin.com/in/alizain-157)  
+→ Or shoot a message: [vin.alizain@gmail.com](mailto:vin.alizain@gmail.com)
+
+---
+
+<!-- 🌊 Animated Footer SVG -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=623CEA&height=120&section=footer"/>
+</p>
