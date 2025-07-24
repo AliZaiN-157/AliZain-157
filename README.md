@@ -32,9 +32,3 @@ Need to turn research into something people can click?
 → DM me on [LinkedIn](https://linkedin.com/in/alizain-157)  
 → Or shoot a message: [vin.alizain@gmail.com](mailto:vin.alizain@gmail.com)
 
----
-
-<!-- 🌊 Animated Footer SVG -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=623CEA&height=120&section=footer"/>
-</p>
