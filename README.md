@@ -1,7 +1,8 @@
-<p align="center">
+
+<p style="position: relative; text-align: center;" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&animation=twinkling&textBg=false"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=623CEA&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Ali+Zain!;AI+Researcher+%26+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
-<h1 align="center">Hey there 👋 I'm Ali Zain</h1>
 
 <p align="center">
   <em>🧠 Focus: LLMs, GenAi, RAG, agentic AI </em><br>
